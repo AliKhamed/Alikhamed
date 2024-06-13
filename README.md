@@ -46,6 +46,7 @@ Jun 2016 – Oct 2020
 
 Detailed descriptions available on GitHub:
 
+- [Ivolve Training Final Project](https://github.com/AliKhamed/MultiCloudDevOpsProject)
 - [CI/CD NodeJS Application using Terraform, Jenkins, and Ansible](https://github.com/AliKhamed/CI-CD-NodeJS-App)
 - [Netflix-Clone-K8S-End-to-End-Project](https://github.com/AliKhamed/Netflix-Clone-K8S-End-to-End-Project)
 - [NTI Jenkins Project](https://github.com/AliKhamed/NTI-Jenkins-Lab)
